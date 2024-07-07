@@ -1,0 +1,15 @@
+{
+  "name": "product-backend-test",
+  "version": "1.0.0",
+  "description": "product backend",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "author": "Abdul Wahid Kahar",
+  "license": "ISC",
+  "dependencies": {
+    "express": "^4.19.2",
+    "mysql": "^2.18.1"
+  }
+}
