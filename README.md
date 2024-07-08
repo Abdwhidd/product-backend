@@ -7,7 +7,8 @@
 Backend untuk manajemen produk simpel menggunakan Node.js dan Express.js.
 
 ## Instalasi
-npm install
+   ```bash
+   npm install
 
 -Pastikan Anda memiliki Node.js dan npm terinstal di mesin Anda sebelum memulai.
 
