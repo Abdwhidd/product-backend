@@ -17,13 +17,14 @@ Backend untuk manajemen produk simpel menggunakan Node.js dan Express.js.
 
 -Pastikan Anda memiliki Node.js dan npm terinstal di mesin Anda sebelum memulai.
 
-## Konfigurasi
-Buat file .env di root direktori proyek dan tambahkan konfigurasi berikut:
-DB_NAME=your_database_name
-DB_USER=your_database_user
-DB_PASSWORD=your_database_password
-DB_HOST=localhost
-JWT_SECRET=your_jwt_secret
+3. **Konfigurasi**
+   Buat file .env di root direktori proyek dan tambahkan konfigurasi berikut:
+   ```bash
+   DB_NAME=your_database_name
+   DB_USER=your_database_user
+   DB_PASSWORD=your_database_password
+   DB_HOST=localhost
+   JWT_SECRET=your_jwt_secret
 
 - **Fitur**:
 - Tambah, Edit, Delete, dan mendapatkan semua data produk dan kategori dengan GET
