@@ -29,6 +29,7 @@ Backend untuk manajemen produk simpel menggunakan Node.js dan Express.js.
 - **Fitur**:
 - Tambah, Edit, Delete, dan mendapatkan semua data produk dan kategori dengan GET
 - Upload file gambar
+- Mendapatkan data dari API eksternal menggunakan axios
 
 - **Kontak**:
 - Email: abdulwahidkaharr@gmail.com
