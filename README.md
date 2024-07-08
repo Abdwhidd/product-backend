@@ -6,13 +6,13 @@
 
 Backend untuk manajemen produk simpel menggunakan Node.js dan Express.js.
 
-## Instalasi
+1. **Clone Repositori**
    ```bash
    npm install
 
 -Pastikan Anda memiliki Node.js dan npm terinstal di mesin Anda sebelum memulai.
 
-1. **Clone Repositori**
+2. **Clone Repositori**
    ```bash
    git clone <url-repositori>
    cd product-backend-test
