@@ -4,7 +4,7 @@
 ![Express.js](https://img.shields.io/badge/Express.js-v4.19.2-blue)
 ![License](https://img.shields.io/badge/License-ISC-yellow)
 
-Backend untuk manajemen produk simpel menggunakan Node.js dan Express.js.
+Backend untuk manajemen produk kain kaos simpel menggunakan Node.js dan Express.js.
 
 1. **Clone Repositori**
    ```bash
