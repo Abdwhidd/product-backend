@@ -6,7 +6,7 @@
 
 Backend untuk manajemen produk simpel menggunakan Node.js dan Express.js.
 
-1. **Clone Repositori**
+1. **Install**
    ```bash
    npm install
 
