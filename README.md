@@ -6,16 +6,16 @@
 
 Backend untuk manajemen produk simpel menggunakan Node.js dan Express.js.
 
-1. **Install**
+1. **Clone Repositori**
+   ```bash
+   git clone <url-repositori> with HTTPS or SSH
+   cd product-backend-test
+
+2. **Install**
    ```bash
    npm install
 
 -Pastikan Anda memiliki Node.js dan npm terinstal di mesin Anda sebelum memulai.
-
-2. **Clone Repositori**
-   ```bash
-   git clone <url-repositori>
-   cd product-backend-test
 
 ## Konfigurasi
 Buat file .env di root direktori proyek dan tambahkan konfigurasi berikut:
